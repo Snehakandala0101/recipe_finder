@@ -1,4 +1,4 @@
-#Recipe Finder   
+# Recipe Finder   
   
 A simple web application to **search for food recipes** using **TheMealDB API**. Built with HTML, CSS, and JavaScript, this app fetches recipes based on user input and displays the result with an image, category, YouTube link, and expandable instructions using a 'Read More' link.  
 ---  
@@ -63,7 +63,7 @@ https://www.themealdb.com/api/json/v1/1/search.php?s=<meal name>
    
 Example: https://www.themealdb.com/api/json/v1/1/search.php?s=pizza  
 --- 
-##Preview 
+## Preview 
  
 ![Homepage](images/intro.png) 
 ![Search Result1](images/example1.png) 
@@ -72,14 +72,14 @@ Example: https://www.themealdb.com/api/json/v1/1/search.php?s=pizza
   
   
 --- 
-##💡 Future Enhancements 
+## Future Enhancements 
 •	Add filters for category or region 
 •	Save favorite recipes 
 •	Add dark/light theme toggle 
 --- 
  
  
- ##Author   
+## Author   
 **Sneha Kandala** 
 Passionate about web development and AI integration.
    
