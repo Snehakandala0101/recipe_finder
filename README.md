@@ -1,43 +1,47 @@
-# Recipe Finder   
+<h1 align="center">🍽️ <i>Recipe Finder</i></h1>
+A simple and lightweight web application to search for food recipes using the TheMealDB API.  
+This app allows users to enter any recipe name and instantly fetches details including an image, category, YouTube tutorial, and expandable instructions.
+
+---
+
+## ✨ Features
+- **Search recipes** by name  
+- Displays **recipe image**  
+- Shows **category**  
+- Provides **YouTube tutorial link**  
+- **Expandable instructions** using a *Read More* / *Read Less* feature  
+
+---
+
+## 🚀 Technologies Used
+- **HTML5**
+- **CSS3**
+- **JavaScript (Fetch API)**
+- **TheMealDB API**
   
-A simple web application to **search for food recipes** using **TheMealDB API**. Built with HTML, CSS, and JavaScript, this app fetches recipes based on user input and displays the result with an image, category, YouTube link, and expandable instructions using a 'Read More' link.  
----  
- ## ✨ Features 
-•	Search for recipes by name (e.g., 'Pizza', 'Chicken').   
-•	Fetch recipe details from TheMealDB API.   
-•	View recipe image, category, and YouTube tutorial.   
-•	Expandable instructions with a “Read More / Read Less” toggle.   
-•	Fully responsive and clean layout.   
+
+ 
 --- 
-## 🛠️ Tech Stack  
-•	**HTML5** -structure of the web page   
-•	**CSS3** - styling and layout   
-•	**JavaScript** - fetching API data   
-•	**TheMealDB API** - recipe data source  
---- 
+
 ## 📁 Project Structure 
-     
 recipe_finder/
 │
-├── images/
-│   ├── intro.png
-│   ├── example1.png
-│   └── example2.png
+├──images/
+│   ├──intro.png
+│   ├──example1.png
+│   └──example2.png
 │
-├── index.html
-├── style.css
-├── script.js
-└── README.md  
-
-  
-  
-  
-     
+├──index.html
+├──style.css
+├──script.js
+└──README.md     
   
 --- 
- ## 🚀 Getting Started ###Option1 : view live 
+ 
+ ## 🚀 Getting Started 
+ ### Option1 : view live 
 👉 [Live Demo](https://Snehakandala0101.github.io/recipe_finder/) 
-###Option2 : Run locally 
+### Option2 : Run locally 
 1.	**Download** or **clone** the repository: 
     ```bash 
     git clone https://github.com/kandalasneha/recipe_finder.git  
@@ -60,8 +64,8 @@ TheMealDB is a free and open online database for food recipes. It provides acces
 This project uses TheMealDB’s public search endpoint:   
    
 https://www.themealdb.com/api/json/v1/1/search.php?s=<meal name>   
-   
-Example: https://www.themealdb.com/api/json/v1/1/search.php?s=pizza  
+Example: https://www.themealdb.com/api/json/v1/1/search.php?s=pizza
+
 --- 
 ## Preview 
  
@@ -72,14 +76,17 @@ Example: https://www.themealdb.com/api/json/v1/1/search.php?s=pizza
   
   
 --- 
-## Future Enhancements 
-•	Add filters for category or region 
-•	Save favorite recipes 
-•	Add dark/light theme toggle 
+## Future Enhancements
+- Add filters for category or region
+- Save favorite recipes
+- Add dark/light theme toggle
+ 
 --- 
  
  
 ## Author   
 **Sneha Kandala** 
+
 Passionate about web development and AI integration.
    
+
