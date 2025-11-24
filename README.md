@@ -36,7 +36,7 @@ recipe_finder/
 ├──index.html
 ├──script.js
 └──style.css    
-  
+```
 --- 
  
  ## 🚀 Getting Started 
@@ -49,7 +49,7 @@ recipe_finder/
 2.	Open the folder: 
      ```bash           
       cd recipe_finder 
-3.	Open index.html in your browser   
+3.	Open [index.html](index.html) in your browser   
 --- 
    
 ## 🔗 API Reference  
@@ -90,6 +90,7 @@ Example: https://www.themealdb.com/api/json/v1/1/search.php?s=pizza
 
 Passionate about web development and AI integration.
    
+
 
 
 
