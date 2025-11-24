@@ -32,10 +32,10 @@ recipe_finder/
 │   ├──example1.png
 │   └──example2.png
 │
-├──
-├──style.css
+├──README.md
+├──index.html
 ├──script.js
-└──README.md     
+└──style.css    
   
 --- 
  
@@ -90,5 +90,6 @@ Example: https://www.themealdb.com/api/json/v1/1/search.php?s=pizza
 
 Passionate about web development and AI integration.
    
+
 
 
