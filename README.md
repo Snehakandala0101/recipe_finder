@@ -24,6 +24,7 @@ This app allows users to enter any recipe name and instantly fetches details inc
 --- 
 
 ## 📁 Project Structure 
+```
 recipe_finder/
 │
 ├──images/
@@ -31,7 +32,7 @@ recipe_finder/
 │   ├──example1.png
 │   └──example2.png
 │
-├──index.html
+├──
 ├──style.css
 ├──script.js
 └──README.md     
@@ -89,4 +90,5 @@ Example: https://www.themealdb.com/api/json/v1/1/search.php?s=pizza
 
 Passionate about web development and AI integration.
    
+
 
