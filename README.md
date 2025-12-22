@@ -45,7 +45,7 @@ recipe_finder/
 ### Option2 : Run locally 
 1.	**Download** or **clone** the repository: 
     ```bash 
-    git clone https://github.com/kandalasneha/recipe_finder.git  
+    git clone https://github.com/Snehakandala0101/recipe_finder.git  
 2.	Open the folder: 
      ```bash           
       cd recipe_finder 
@@ -90,6 +90,7 @@ Example: https://www.themealdb.com/api/json/v1/1/search.php?s=pizza
 
 Passionate about web development and AI integration.
    
+
 
 
 
